@@ -2,9 +2,10 @@
 
 自身が学んだ記録を作りましょう。
 
-- 関数(`function` で始まるコード)は function.js に書きます
+- 関数(`function` で始まるコード)は全て function.js に書きます
 - その他をREADME.md（このファイル）に書いていきます
-    - 書き方は README-example.md を参考にしてください
+    - 書き方は README-example.md (同じフォルダに同梱) を参考にしてください
+- 書き方は自身でアレンジしてもかまいません
 
 ## 4-x ○○ (p.xx)
 
